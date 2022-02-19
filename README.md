@@ -1,9 +1,9 @@
 ### Eu sou a Amanda Karoline 👋
 
-<div align="center" align-items="baseline" >
+<div align="center">
   <a href="https://github.com/amandaptela">
   <img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api?username=amandaptela&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide=stars"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaptela&layout=compact&langs_count=7&theme=cobalt&">
+  <img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaptela&layout=compact&langs_count=7&theme=cobalt&">
 </div>  
 <div align="left">
 <h2> O que estou aprendendo </h2> 
