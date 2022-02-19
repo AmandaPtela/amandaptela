@@ -1,6 +1,6 @@
 ### Eu sou a Amanda Karoline 👋
 
-<div align="center">
+<div align="center" align-items="baseline" >
   <a href="https://github.com/amandaptela">
   <img height="260em" width="380px" src="https://github-readme-stats.vercel.app/api?username=amandaptela&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide=stars"/>
   <img height="180em" width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaptela&layout=compact&langs_count=7&theme=cobalt&">
