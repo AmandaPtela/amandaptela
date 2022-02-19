@@ -2,9 +2,9 @@
 
 <div align="center">
   <a href="https://github.com/amandaptela">
-          <img align="center" height="200px" src="https://wizardsourcer.com/wp-content/uploads/2017/12/Github.png"/>
-  <img height="180em" width="455px" src="https://github-readme-stats.vercel.app/api?username=amandaptela&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide=stars"/>
-  <img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaptela&layout=compact&langs_count=7&theme=cobalt&">
+          <img align="center" height="200em" src="https://wizardsourcer.com/wp-content/uploads/2017/12/Github.png"/>
+  <img height="300em" width="300em" src="https://github-readme-stats.vercel.app/api?username=amandaptela&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide=stars"/>
+  <img height="300em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaptela&layout=compact&langs_count=7&theme=cobalt&">
 </div>  
 
   
