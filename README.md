@@ -5,7 +5,7 @@
   <img height="180em" width="455px" src="https://github-readme-stats.vercel.app/api?username=amandaptela&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide=stars"/>
   <img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaptela&layout=compact&langs_count=7&theme=cobalt&">
 </div>  
-      <img height="300px" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif"/>
+      <img height="200px" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif"/>
   
 <div align="left">
 <h2> O que estou aprendendo </h2> 
