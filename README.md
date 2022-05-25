@@ -1,7 +1,7 @@
 <img align="left" src="https://raw.githubusercontent.com/flaviofilipe/flaviofilipe/main/assets/github.gif"/>
 <h1 align="center"><strong> ✨ Bem-vindos! ✨ </strong></h1>
   <h2><strong>
- ✨ Eu sou a Amanda Karoline <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <br>
+ ✨ Eu sou a Amanda Karoline <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> <br>
  ✨ Atualmente estudante de Desenvolvimento WEB na Trybe!</strong></h2><br>
 
 <br>
