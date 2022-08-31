@@ -1,8 +1,8 @@
 <img align="left" src="https://raw.githubusercontent.com/flaviofilipe/flaviofilipe/main/assets/github.gif"/>
 <h1 align="center"><strong> ✨ Bem-vindos! ✨ </strong></h1>
   <h2><strong>
- ✨ Eu sou a Amanda Karoline <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="30px"> <br>
- ✨ Atualmente estudante de Desenvolvimento WEB na Trybe!</strong></h2><br>
+ <img height="20" width="20" src="https://img.icons8.com/emoji/48/000000/yellow-circle-emoji.png"/> Eu sou a Amanda Karoline <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="30px"> <br>
+ <img height="20" width="20" src="https://img.icons8.com/emoji/48/000000/yellow-circle-emoji.png"/> Atualmente estudante de Desenvolvimento WEB na Trybe!</strong></h2><br>
 
 <br>
 
