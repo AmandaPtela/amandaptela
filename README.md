@@ -7,11 +7,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/amandaptela">
-  <img height="180em" width="415em" src="https://github-readme-stats.vercel.app/api?username=amandaptela&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+        <img height="180em" width="415em" src="https://github-readme-stats.vercel.app/api?username=amandaptela&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaptela&layout=compact&langs_count=7&theme=cobalt&">
- 
-  ![Snake animation](https://github.com/amandaptela/amandaptela/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
 <div align="left">
@@ -42,4 +39,8 @@
   <a href="www.linkedin.com/in/amandaptela" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   <br>
+  <div>
+ 
+  ![Snake animation](https://github.com/amandaptela/amandaptela/blob/output/github-contribution-grid-snake.svg)
+  </div>
 
