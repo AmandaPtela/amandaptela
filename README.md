@@ -1,6 +1,6 @@
 # 💫 About Me:
-Estudante de desenvolvimento WEB.<br>Atualmente aprendendo Desenvolvimento BackEnd.<br>funFact: Gosto de ouvir música, histórias aleatórias de vida, jogos variados, etc.
-
+Estudante de desenvolvimento WEB.<br>Atualmente aprendendo Desenvolvimento BackEnd.<br>
+Gosto de ouvir música, histórias aleatórias de vida, e de jogar!
 
 ## 🌐 Socials:
 
@@ -16,6 +16,11 @@ Estudante de desenvolvimento WEB.<br>Atualmente aprendendo Desenvolvimento BackE
 ![Jest](https://img.shields.io/badge/jest-%231572B6.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%231572B6.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MySql](https://img.shields.io/badge/mysql-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/sequelize-%231572B6.svg?style=for-the-badge&logo=sequelize&logoColor=white)
+![Express](https://img.shields.io/badge/express-%231572B6.svg?style=for-the-badge&logo=express&logoColor=white)
+![Typescript](https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
