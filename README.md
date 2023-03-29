@@ -1,7 +1,9 @@
 # 💫 About Me:
-Estudante de desenvolvimento WEB.<br>Atualmente aprendendo Desenvolvimento BackEnd.<br>
-Gosto de ouvir música, histórias aleatórias de vida, e de jogar!
-
+<div align="center">
+  <a href='https://postimg.cc/N5d7fp0M' target='_blank'><img src='https://i.postimg.cc/N5d7fp0M/octocat-1680132535278.png' border='0' alt='octocat-1680132535278'/></a>
+  Estudante de desenvolvimento WEB.<br>Atualmente aprendendo Desenvolvimento BackEnd.<br>
+  Gosto de ouvir música, histórias aleatórias de vida, e de jogar!
+</div>
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amandaptela)
