@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de desenvolvimento WEB.<br>Atualmente aprendendo Desenvolvimento BackEnd.<br>funFact: Gosto de ouvir histórias aleatórias de vida, OVNIs, etc.
+Estudante de desenvolvimento WEB.<br>Atualmente aprendendo Desenvolvimento BackEnd.<br>funFact: Gosto de ouvir música, histórias aleatórias de vida, jogos variados, etc.
 
 
 ## 🌐 Socials:
