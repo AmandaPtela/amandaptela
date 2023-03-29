@@ -4,6 +4,7 @@
   Estudante de desenvolvimento WEB.<br>Atualmente aprendendo Desenvolvimento BackEnd.<br>
   Gosto de ouvir música, histórias aleatórias de vida, e de jogar!
 </div>
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amandaptela)
