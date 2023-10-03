@@ -41,7 +41,6 @@
 [![](https://visitcount.itsvg.in/api?id=AmandaPtela&icon=5&color=9)](https://visitcount.itsvg.in)
 </div>
 
----
   <br>
 
 
