@@ -43,8 +43,5 @@
 
 ---
   <br>
-  <div>
- 
-  ![Snake animation](https://github.com/amandaptela/amandaptela/blob/output/github-contribution-grid-snake.svg)
-  </div>
+
 
